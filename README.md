@@ -1,7 +1,7 @@
 # 100 Days of Code: The Complete CodeBrewers Python Bootcamp
 
 ### 🔰 Beginner
-Day 1: Working with Variables in Python to Manage Data <br> 
+[Day 1](https://github.com/johnalpha74/100-Days-of-Python/tree/master/Day%2001) : Working with Variables in Python to Manage Data <br> 
 Day 2: Understanding Data Types and How to Manipulate Strings <br> 
 Day 3: Control Flow and Logical Operators  
 Day 4: Randomisation and Python Lists <br>
