@@ -1,4 +1,4 @@
-# 100 Days of Code: The Complete Python Pro Bootcamp
+# 100 Days of Code: The Complete CodeBrewers Python Bootcamp
 
 ### 🔰 Beginner
 Day 1: Working with Variables in Python to Manage Data
@@ -70,8 +70,7 @@ Day 60: Make POST Requests with Flask and HTML Forms
 Day 61: Building Advanced Forms with Flask-WTForms
 Day 62: Flask, WTForms, Bootstrap, and CSV - Coffee & Wifi Project
 Day 63: Databases and with SQLite and SQLAlchemy
-Day 64: My Top 10 Movies Website
-Day 65: How to Create a Website That People Will Love
+Day 64: My Top 10 Movies WebsiteDay 65: How to Create a Website That People Will Love
 Day 66: Building Your Own API with RESTful Routing
 Day 67: Blog Capstone Project Part 3 - RESTful Routing
 Day 68: Authentication with Flask
@@ -87,6 +86,7 @@ Day 77: Linear Regression and Data Visualisation with Seaborn
 Day 78: Analysing the Nobel Prize with Plotly, Matplotlib & Seaborn
 Day 79: The Tragic Discovery of Handwashing: t-Tests & Distributions
 Day 80: Capstone Project - Predict House Prices
+
 ### ⚔ Professional Portfolio Projects
 Day 81: Text to Morse Code Converter
 Day 82: Portfolio Website
