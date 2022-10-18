@@ -8,4 +8,5 @@
 - Python Variables
 - Variable Naming
 
-### Band Name Generator
+### Pet Name Generator
+
