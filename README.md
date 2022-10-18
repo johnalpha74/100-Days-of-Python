@@ -72,41 +72,41 @@ Day 63: Databases and with SQLite and SQLAlchemy<br>
 Day 64: My Top 10 Movies WebsiteDay 65: How to Create a Website That People Will Love<br> 
 Day 66: Building Your Own API with RESTful Routing<br> 
 Day 67: Blog Capstone Project Part 3 - RESTful Routing<br> 
-Day 68: Authentication with Flask
-Day 69: Blog Capstone Project Part 4 - Adding Users
-Day 70: Deploying Your Web Application with Heroku
-Day 71: Data Exploration with Pandas: College Major vs. Your Salary
-Day 72: Data Visualisation with Matplotlib: Programming Languages
-Day 73: Aggregate & Marge Data with Pandas: Analyse the Lego Dataset
-Day 74: Google Trends Data: Resampling and Visualising Time Series
-Day 75: Beautiful Plotly Charts & Analysing the Android App Store
-Day 76: Computation with NumPy and N-Dimensional Arrays
-Day 77: Linear Regression and Data Visualisation with Seaborn
-Day 78: Analysing the Nobel Prize with Plotly, Matplotlib & Seaborn
-Day 79: The Tragic Discovery of Handwashing: t-Tests & Distributions
-Day 80: Capstone Project - Predict House Prices
+Day 68: Authentication with Flask<br> 
+Day 69: Blog Capstone Project Part 4 - Adding Users<br> 
+Day 70: Deploying Your Web Application with Heroku<br> 
+Day 71: Data Exploration with Pandas: College Major vs. Your Salary<br> 
+Day 72: Data Visualisation with Matplotlib: Programming Languages<br> 
+Day 73: Aggregate & Marge Data with Pandas: Analyse the Lego Dataset<br> 
+Day 74: Google Trends Data: Resampling and Visualising Time Series<br> 
+Day 75: Beautiful Plotly Charts & Analysing the Android App Store<br> 
+Day 76: Computation with NumPy and N-Dimensional Arrays<br> 
+Day 77: Linear Regression and Data Visualisation with Seaborn<br> 
+Day 78: Analysing the Nobel Prize with Plotly, Matplotlib & Seaborn<br> 
+Day 79: The Tragic Discovery of Handwashing: t-Tests & Distributions<br> 
+Day 80: Capstone Project - Predict House Prices<br> 
 
 ### ⚔ Professional Portfolio Projects
-Day 81: Text to Morse Code Converter
-Day 82: Portfolio Website
-Day 83: Tic Tac Toe
-Day 84: Image Watermarking Desktop App
-Day 85: Typing Speed Test App
-Day 86: Breakout: The Famous Arcade Game
-Day 87: Cafe and Wifi Website
-Day 88: To Do Agenda App
-Day 89: Disappearing Text Writing App
-Day 90: Convert PDF to Audiobook
-Day 91: Image to Color List
-Day 92: Amazon Canada Web Scraper
-Day 93: Google Dinosaur Game Bot
-Day 94: Space Invaders
-Day 95: Custom API
-Day 96: An Online Shop
-Day 97: Percentage Calculator
-Day 98: Analyzing and Visualizing the Space Race
-Day 99: Analyzing Deaths Involving Police in the United States
-Day 100: Predicting Earnings using Multivariable Regression
+Day 81: Text to Morse Code Converter<br> 
+Day 82: Portfolio Website<br> 
+Day 83: Tic Tac Toe<br> 
+Day 84: Image Watermarking Desktop App<br> 
+Day 85: Typing Speed Test App<br> 
+Day 86: Breakout: The Famous Arcade Game<br> 
+Day 87: Cafe and Wifi Website<br> 
+Day 88: To Do Agenda App<br> 
+Day 89: Disappearing Text Writing App<br> 
+Day 90: Convert PDF to Audiobook<br> 
+Day 91: Image to Color List<br> 
+Day 92: Amazon Canada Web Scraper<br> 
+Day 93: Google Dinosaur Game Bot<br> 
+Day 94: Space Invaders<br> 
+Day 95: Custom API<br> 
+Day 96: An Online Shop<br> 
+Day 97: Percentage Calculator<br> 
+Day 98: Analyzing and Visualizing the Space Race<br> 
+Day 99: Analyzing Deaths Involving Police in the United States<br> 
+Day 100: Predicting Earnings using Multivariable Regression<br> 
 
 ### ⚙ Tools and Technologies Covered
 - Python 3
