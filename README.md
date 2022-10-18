@@ -141,7 +141,7 @@ Git, GitHub and Version Control
 - APIs
 
 **Databases**
-- SQL
+- SQL 
 - SQLite
 - PostgreSQL
 
