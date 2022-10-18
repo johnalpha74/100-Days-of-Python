@@ -1,4 +1,5 @@
-Day 1 - Working with Variables in Python to Manage Data
+### H3 Day 1 - Working with Variables in Python to Manage Data
+
 Concepts Practised
 Printing to the Console in Python
 String Manipulation and Code Intelligence
