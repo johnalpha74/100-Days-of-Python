@@ -1,6 +1,10 @@
 # 100 Days of Code: The Complete CodeBrewers Python Bootcamp
 
 ### 🔰 Beginner
+day 1
+day 3
+day 3
+
 Day 1: Working with Variables in Python to Manage Data
 Day 2: Understanding Data Types and How to Manipulate Strings
 Day 3: Control Flow and Logical Operators
