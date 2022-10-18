@@ -129,20 +129,23 @@ Day 100: Predicting Earnings using Multivariable Regression
 - Turtle
 - Python GUI Desktop App Development
 - Tkinter
-***Front-End Web Development***
+**Front-End Web Development**
 HTML 5
 CSS 3
 Bootstrap 4
 Bash Command Line
 Git, GitHub and Version Control
-Backend Web Development
-Flask
-REST
-APIs
-Databases
-SQL
-SQLite
-PostgreSQL
-Authentication
-Web Design
-Deployment with GitHub Pages, Heroku and GUnicorn
+
+**Backend Web Development**
+- Flask
+- REST
+- APIs
+
+**Databases**
+- SQL
+- SQLite
+- PostgreSQL
+
+**Authentication**
+- Web Design
+- Deployment with GitHub Pages, Heroku and GUnicorn
