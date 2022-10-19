@@ -1,0 +1,12 @@
+'''Write a program that adds the digits in a 2 digit number. e.g. if the input was 35, then the output should be 3 + 5 = 8'''
+
+two_digit_number = input("Enter a two digit number: ")
+
+#add the number after converting it into an int
+#then test it if it is an integer
+
+try:
+    sum = int(two_digit_number[0]) + int(two_digit_number[1])
+    print(f"Sum of digits of {two_digit_number} is {sum} ")
+except ValueError:
+    print("Please enter an integer")
