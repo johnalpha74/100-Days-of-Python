@@ -1,4 +1,4 @@
-# Day 1 - Control Flow and Logical Operators
+# Day 3 - Control Flow and Logical Operators
 
 ### Concepts Practised
 - Concepts Practised
