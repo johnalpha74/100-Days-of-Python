@@ -1,11 +1,9 @@
-# Day 1 - Working with Variables in Python to Manage Data
+# Day 1 - Control Flow and Logical Operators
 
 ### Concepts Practised
-- Printing to the Console in Python
-- String Manipulation and Code Intelligence
-- Debugging
-- The Python Input Function
-- Python Variables
-- Variable Naming
-
-### Band Name Generator
+- Concepts Practised
+- Control Flow with if / else and Conditional Operators
+- Modulus Operator
+- Nested if statements and elif statements
+- Multiple If Statements in Succession
+- Logical Operators
