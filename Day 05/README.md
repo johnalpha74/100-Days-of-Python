@@ -1,11 +1,9 @@
-# Day 1 - Working with Variables in Python to Manage Data
+# Day 5 - Python Loops
 
 ### Concepts Practised
-- Printing to the Console in Python
-- String Manipulation and Code Intelligence
-- Debugging
-- The Python Input Function
-- Python Variables
-- Variable Naming
+- Using the for loop with Python Lists
+- For loops and the range() function
+- split() function
+- len() function 
 
-### Band Name Generator
+### Password Generator
