@@ -1,11 +1,7 @@
-# Day 1 - Working with Variables in Python to Manage Data
+# Day 4 - Randomisation and Python Lists
 
 ### Concepts Practised
-- Printing to the Console in Python
-- String Manipulation and Code Intelligence
-- Debugging
-- The Python Input Function
-- Python Variables
-- Variable Naming
-
-### Band Name Generator
+- Concepts Practised
+- Random Module
+- Understanding the Offset and Appending Items to Lists
+- Index Errors and Working with Nested Lists
