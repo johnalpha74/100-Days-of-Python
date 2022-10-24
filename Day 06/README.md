@@ -1,11 +1,8 @@
-# Day 1 - Working with Variables in Python to Manage Data
+# DDay 6 - Python Functions & Karel
 
 ### Concepts Practised
-- Printing to the Console in Python
-- String Manipulation and Code Intelligence
-- Debugging
-- The Python Input Function
-- Python Variables
-- Variable Naming
+- Defining and Calling Python Functions
+- Indentation in Python
+- While Loops
 
-### Band Name Generator
+
