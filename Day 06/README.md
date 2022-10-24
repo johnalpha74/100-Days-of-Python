@@ -1,4 +1,4 @@
-# DDay 6 - Python Functions & Karel
+# Day 6 - Python Functions & Karel
 
 ### Concepts Practised
 - Defining and Calling Python Functions
