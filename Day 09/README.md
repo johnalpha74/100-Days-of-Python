@@ -1,11 +1,7 @@
-# Day 1 - Working with Variables in Python to Manage Data
+# Day 9 - Dictionaries, Nesting and the Secret Auction
 
 ### Concepts Practised
-- Printing to the Console in Python
-- String Manipulation and Code Intelligence
-- Debugging
-- The Python Input Function
-- Python Variables
-- Variable Naming
+- The Python Dictionary
+- Nesting Lists and Dictionaries
 
-### Band Name Generator
+### The Secret Auction
