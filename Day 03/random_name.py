@@ -14,7 +14,7 @@ num_items = len(names)
 # Generate random numbers between 0 and the last index.
 
 random_choice = random.randint(0, num_items - 1)
-
+#comment 
 # Pick out random person from list of names using the random number.
 person_who_will_pay = names[random_choice]
 
