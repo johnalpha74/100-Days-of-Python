@@ -1,11 +1,7 @@
-# Day 1 - Working with Variables in Python to Manage Data
+# Day 12 - Scope & Number Guessing Game
 
 ### Concepts Practised
-- Printing to the Console in Python
-- String Manipulation and Code Intelligence
-- Debugging
-- The Python Input Function
-- Python Variables
-- Variable Naming
+- How to Modify a Global Variable
+- Python Constants and Global Scope
 
-### Band Name Generator
+### The Number Guessing Game
